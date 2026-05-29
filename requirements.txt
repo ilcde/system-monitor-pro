@@ -1,0 +1,7 @@
+psutil
+customtkinter
+matplotlib
+python-dotenv
+pyinstaller
+darkdetect
+Pillow
